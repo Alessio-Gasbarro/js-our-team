@@ -1,0 +1,47 @@
+body{
+    font-family: 'Catamaran', sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+h1{
+    color: #E53170;
+    font-weight: 900;
+    font-size: 3em;
+}
+
+.container-fluid{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.member-card{
+    margin: 10px;
+    background-color: black;
+    color: white;
+
+}
+.member-image{
+    width: 100px;
+    height: 100px;
+}
+.member-image img{
+    height: 100%;
+}
+.member-info{
+    padding: 10px 20px;
+}
+.name{
+    font-size: 20px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.email{
+    text-decoration: none;
+    color: #5EC5EC;
+}
+form{
+    width: 50%;
+    margin: 0 auto;
+}
